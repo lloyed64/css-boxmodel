@@ -83,23 +83,26 @@ nav {
 	width: 100%;
 	margin: 0 auto;
 
+
 }
 .restaurant-list h1{
 	font-weight: bolder;
 	font-size: 16px;
-	padding-top:
+
 }
 .restaurant-list h3{
 font-size: 12px;
-padding-top: 5px;
+margin-top: 5px;
 }
 
 .location {
 	width: 420px;
-	padding:1%;
+	padding:5%;
 	background-color:#aaa;
 	border-bottom: 1px solid#000;
-	padding-left:20px;
+	padding-left:5%;
+
+
 
 }
 .location:hover{
@@ -107,21 +110,13 @@ padding-top: 5px;
 }
 
 .arrow {
-	padding-left: 370px;
-	padding-bottom: 10px;
-	margin:1px;
+	float: right;
+	margin:-20px;
+	padding-right: 5%
+
+
 }
 
 .arrow-left {
 	padding-top: 5px;
-}
-
-
-
-
-
-
-
-
-
 }
